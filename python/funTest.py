@@ -51,6 +51,9 @@ print test(3,[])
 # print '---------------result--------'
 # print x
 
+if __name__ == '__main__':
+    print "ok"
+
 
 
 
