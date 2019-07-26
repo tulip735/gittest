@@ -52,7 +52,7 @@ print test(3,[])
 # print x
 
 if __name__ == '__main__':
-    print "ok"
+    print 'error'
 
 
 
